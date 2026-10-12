@@ -37,22 +37,22 @@ Children enter **Knowledge Worlds** and follow an **Explore → Play → Life Sk
 ## Screenshots
 
 ### Home page
-![Home page](docs/screenshots/Home Page.png)
+![Home page](docs/screenshots/Home%20Page.png)
 
 ### What we offer
-![What we offer](docs/screenshots/What we offer.png)
+![What we offer](docs/screenshots/What%20we%20offer.png)
 
 ### Knowledge Worlds
-![Knowledge Worlds](docs/screenshots/Knowledge Worlds.png)
+![Knowledge Worlds](docs/screenshots/Knowledge%20Worlds.png)
 
 ### Forest of Ayurveda
-![Forest of Ayurveda quest map](docs/screenshots/Forest of Ayurveda.png)
+![Forest of Ayurveda quest map](docs/screenshots/Forest%20of%20Ayurveda.png)
 
 ### Progress tracking
-![Progress tracking](docs/screenshots/Progress tracking.png)
+![Progress tracking](docs/screenshots/Progress%20tracking.png)
 
 ### Founder's story
-![Founder's story](docs/screenshots/Founder's story.png)
+![Founder's story](docs/screenshots/Founders%20story.png)
 
 ## What is real and what is a demo (honest scope)
 
