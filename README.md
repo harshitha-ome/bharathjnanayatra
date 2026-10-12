@@ -34,6 +34,26 @@ Children enter **Knowledge Worlds** and follow an **Explore → Play → Life Sk
 | `/knowledge-world-adventure` | One world's quest map (Forest of Ayurveda), active quest, badges, lore, activity feed |
 | `/sign-up-login-screen` | Sign-up and login for a child learner, parent or teacher |
 
+## Screenshots
+
+### Home page
+![Home page](docs/screenshots/Home Page.png)
+
+### What we offer
+![What we offer](docs/screenshots/What we offer.png)
+
+### Knowledge Worlds
+![Knowledge Worlds](docs/screenshots/Knowledge Worlds.png)
+
+### Forest of Ayurveda
+![Forest of Ayurveda quest map](docs/screenshots/Forest of Ayurveda.png)
+
+### Progress tracking
+![Progress tracking](docs/screenshots/Progress tracking.png)
+
+### Founder's story
+![Founder's story](docs/screenshots/Founder's story.png)
+
 ## What is real and what is a demo (honest scope)
 
 This is a **UI prototype**. It has no backend yet.
