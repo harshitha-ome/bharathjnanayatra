@@ -1,0 +1,19 @@
+{
+  "note": "Synthetic example showing the structure of pilot feedback. Not real data.",
+  "session": {
+    "module": "Forest of Ayurveda",
+    "setting": "government school, classes 1-5",
+    "participants": 12,
+    "duration_minutes": 40
+  },
+  "observations": {
+    "engagement": "high",
+    "most_popular_activity": "plant identification",
+    "recall_in_matching_quiz_percent": 70
+  },
+  "teacher_feedback": {
+    "more_engaging_than_usual": true,
+    "wants_more_sessions": true,
+    "quote": "Example quote placeholder"
+  }
+}

@@ -1,0 +1,8 @@
+response_id,respondent_type,child_age,importance_1_to_5,interest_1_to_5,willing_to_pay_1_to_5,joined_waitlist
+1,parent,7,5,5,4,yes
+2,parent,9,5,4,5,yes
+3,parent,6,4,5,3,no
+4,adult_for_self,,5,5,4,yes
+5,parent,10,5,5,5,yes
+6,parent,8,5,3,2,no
+7,adult_for_self,,4,4,4,no
