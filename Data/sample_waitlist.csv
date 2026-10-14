@@ -1,0 +1,10 @@
+response_id,date,respondent_type,child_age,learning_sources,importance_1_to_5,interest_1_to_5,willing_to_pay_200_1_to_5,joined_waitlist,feedback_theme
+1,2026-09-07,adult_for_self,,youtube;stories,5,5,4,yes,
+2,2026-09-07,adult_for_self,,youtube,5,5,5,yes,community_meetups
+3,2026-09-08,parent,6,youtube;stories,5,5,5,no,
+4,2026-09-08,parent,4,youtube_shorts,5,3,5,no,
+5,2026-09-10,parent,16,family;rituals;classes,5,5,5,yes,
+6,2026-09-16,parent,9,stories,5,5,5,yes,
+7,2026-09-16,parent,8,youtube;stories,4,2,3,yes,use_social_groups_to_survey
+8,2026-09-16,parent,4.5,youtube;stories;books,5,5,5,yes,use_history_not_mythology
+9,2026-09-16,parent,14,youtube,5,5,1,yes,price_sensitivity
