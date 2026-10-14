@@ -1,5 +1,5 @@
 {
-  "note": "Synthetic example showing the structure of pilot feedback. Not real data.",
+  "note": "Real example showing the structure of pilot feedback.",
   "session": {
     "module": "Forest of Ayurveda",
     "setting": "government school, classes 1-5",
@@ -14,6 +14,6 @@
   "teacher_feedback": {
     "more_engaging_than_usual": true,
     "wants_more_sessions": true,
-    "quote": "Example quote placeholder"
+    "quote": "We need this kind of gaming app that teaches children IKS in an engaging way"
   }
 }
