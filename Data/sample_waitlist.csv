@@ -6,5 +6,5 @@ response_id,date,respondent_type,child_age,learning_sources,importance_1_to_5,in
 5,2026-09-10,parent,16,family;rituals;classes,5,5,5,yes,
 6,2026-09-16,parent,9,stories,5,5,5,yes,
 7,2026-09-16,parent,8,youtube;stories,4,2,3,yes,use_social_groups_to_survey
-8,2026-09-16,parent,4.5,youtube;stories;books,5,5,5,yes,use_history_not_mythology
+8,2026-09-16,parent,4.5,youtube;stories;books,5,5,5,yes,use_the_term_history_not_mythology
 9,2026-09-16,parent,14,youtube,5,5,1,yes,price_sensitivity
