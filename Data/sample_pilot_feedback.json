@@ -6,11 +6,7 @@
     "participants": 12,
     "duration_minutes": 40
   },
-  "observations": {
-    "engagement": "Good",
-    "most_popular_activity": "plant identification",
-    "recall_in_matching_quiz_percent": 70
-  },
+  
   "teacher_feedback": {
     "more_engaging_than_usual": true,
     "wants_more_sessions": true,
