@@ -14,8 +14,16 @@
       "type": "decision",
       "prompt": "A river spirit offers you a shining golden axe. Is it yours?",
       "options": [
-        { "id": "a", "label": "Yes, take it", "outcome_scene": "s3_lie" },
-        { "id": "b", "label": "No, it is not mine", "outcome_scene": "s3_truth" }
+        {
+          "id": "a",
+          "label": "Yes, take it",
+          "outcome_scene": "s3_lie"
+        },
+        {
+          "id": "b",
+          "label": "No, it is not mine",
+          "outcome_scene": "s3_truth"
+        }
       ]
     },
     {
@@ -27,9 +35,36 @@
       "id": "s3_lie",
       "text": "In the story, a dishonest answer loses the golden axe and the old one too. What would you do differently?",
       "reward": "Reflection prompt"
+    },
+    {
+      "id": "s4_transfer",
+      "type": "decision",
+      "prompt": "Imagine you find a magical pencil that your friend brought to school, and your friend has lost it. What would you do?",
+      "options": [
+        {
+          "id": "a",
+          "label": "Keep it for myself",
+          "outcome_scene": "s5_reflect"
+        },
+        {
+          "id": "b",
+          "label": "Give it back to my friend",
+          "outcome_scene": "s5_reflect"
+        }
+      ],
+      "purpose": "Checks whether the child can apply the lesson to a new, real-life situation"
+    },
+    {
+      "id": "s5_reflect",
+      "text": "Why did you choose that? How would your friend feel?",
+      "reward": "Reflection prompt"
     }
   ],
   "reflection_prompt": "Why do you think honesty was rewarded?",
+  "pilot_observation": {
+    "setting": "Pilot with government-school children in Andhra Pradesh",
+    "note": "After the woodcutter story, children were asked the magical-pencil question and answered honestly, applying the lesson to a new situation. Small informal pilot; not a controlled study."
+  },
   "review": {
     "status": "draft",
     "expert_reviewed": false
