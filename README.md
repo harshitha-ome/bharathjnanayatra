@@ -52,7 +52,7 @@ Children enter **Knowledge Worlds** and follow an **Explore → Play → Life Sk
 ![Progress tracking](docs/screenshots/Progress%20tracking.png)
 
 ### Founder's story
-![Founder's story](docs/screenshots/Founders%20story.png)
+![Founder's story](docs/screenshots/Founder%20story.png)
 
 ## What is real and what is a demo (honest scope)
 
